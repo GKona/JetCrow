@@ -1,0 +1,27 @@
+C:\Users\geri\Desktop\COMP397-SideScroller\COMP397-SideScroller\bin\COMP397-SideScroller.dll.config
+C:\Users\geri\Desktop\COMP397-SideScroller\COMP397-SideScroller\bin\COMP397-SideScroller.dll
+C:\Users\geri\Desktop\COMP397-SideScroller\COMP397-SideScroller\bin\COMP397-SideScroller.pdb
+C:\Users\geri\Desktop\COMP397-SideScroller\COMP397-SideScroller\bin\COMP397-SideScroller.xml
+C:\Users\geri\Desktop\COMP397-SideScroller\COMP397-SideScroller\obj\Debug\COMP397_SideScroller.Resources.resources
+C:\Users\geri\Desktop\COMP397-SideScroller\COMP397-SideScroller\obj\Debug\COMP397-SideScroller.vbproj.GenerateResource.Cache
+C:\Users\geri\Desktop\COMP397-SideScroller\COMP397-SideScroller\obj\Debug\COMP397-SideScroller.dll
+C:\Users\geri\Desktop\COMP397-SideScroller\COMP397-SideScroller\obj\Debug\COMP397-SideScroller.xml
+C:\Users\geri\Desktop\COMP397-SideScroller\COMP397-SideScroller\obj\Debug\COMP397-SideScroller.pdb
+C:\Users\geri\Desktop\COMP397-SideScroller - Copy\COMP397-SideScroller\obj\Debug\COMP397_SideScroller.Resources.resources
+C:\Users\geri\Desktop\COMP397-SideScroller - Copy\COMP397-SideScroller\obj\Debug\COMP397-SideScroller.vbproj.GenerateResource.Cache
+C:\Users\geri\Desktop\COMP397-SideScroller - Copy\COMP397-SideScroller\bin\COMP397-SideScroller.dll.config
+C:\Users\geri\Desktop\COMP397-SideScroller - Copy\COMP397-SideScroller\bin\COMP397-SideScroller.dll
+C:\Users\geri\Desktop\COMP397-SideScroller - Copy\COMP397-SideScroller\bin\COMP397-SideScroller.pdb
+C:\Users\geri\Desktop\COMP397-SideScroller - Copy\COMP397-SideScroller\bin\COMP397-SideScroller.xml
+C:\Users\geri\Desktop\COMP397-SideScroller - Copy\COMP397-SideScroller\obj\Debug\COMP397-SideScroller.dll
+C:\Users\geri\Desktop\COMP397-SideScroller - Copy\COMP397-SideScroller\obj\Debug\COMP397-SideScroller.xml
+C:\Users\geri\Desktop\COMP397-SideScroller - Copy\COMP397-SideScroller\obj\Debug\COMP397-SideScroller.pdb
+C:\Users\geri\Documents\GitHub\COMP397-SideScroller\COMP397-SideScroller\bin\COMP397-SideScroller.dll.config
+C:\Users\geri\Documents\GitHub\COMP397-SideScroller\COMP397-SideScroller\bin\COMP397-SideScroller.dll
+C:\Users\geri\Documents\GitHub\COMP397-SideScroller\COMP397-SideScroller\bin\COMP397-SideScroller.pdb
+C:\Users\geri\Documents\GitHub\COMP397-SideScroller\COMP397-SideScroller\bin\COMP397-SideScroller.xml
+C:\Users\geri\Documents\GitHub\COMP397-SideScroller\COMP397-SideScroller\obj\Debug\COMP397_SideScroller.Resources.resources
+C:\Users\geri\Documents\GitHub\COMP397-SideScroller\COMP397-SideScroller\obj\Debug\COMP397-SideScroller.vbproj.GenerateResource.Cache
+C:\Users\geri\Documents\GitHub\COMP397-SideScroller\COMP397-SideScroller\obj\Debug\COMP397-SideScroller.dll
+C:\Users\geri\Documents\GitHub\COMP397-SideScroller\COMP397-SideScroller\obj\Debug\COMP397-SideScroller.xml
+C:\Users\geri\Documents\GitHub\COMP397-SideScroller\COMP397-SideScroller\obj\Debug\COMP397-SideScroller.pdb
